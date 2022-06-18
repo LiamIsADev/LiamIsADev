@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LiamIsADev
-- 👀 I’m interested in JavaScript, and other programming languanges
-- 🌱 I’m i just began a journey learning JavaScript
+- 👀 I’m interested in Java, C for the Arduino and other programming languanges
+- 🌱 I’m i just began a journey learning Java
 - 👨‍💻 I am not open for collaboration, but I will be in the future. I just have to learn 
 
 
