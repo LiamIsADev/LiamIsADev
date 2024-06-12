@@ -1,6 +1,8 @@
 - 👋 Hi, I’m LiamIsADev
-- 👀 I’m interested in Java, C for the Arduino and other programming languanges
-- 🌱 I’m i just began a journey learning Java
+- 👀 I’m interested in Java, Arduino C and Python
+- 🌱 I’m i just began a journey learning with Python
+- ☕ Intermediate in Java programming
+- 🤖 Intermediate in Arduino
 - 👨‍💻 I am not open for collaboration, but I will be in the future. I just have to learn 
 
 
